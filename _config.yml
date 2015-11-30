@@ -1,0 +1,28 @@
+name: Orion
+favicon: null
+layout_spectrum: 0.08170329453423619
+typography_spectrum: 0.9775607178453356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8728922279551625
+  lightness: 0.391041822033003
+  saturation: 0.6622477660421282
+  rhythmicContrast: 0.3430488395970315
+purpose: []
